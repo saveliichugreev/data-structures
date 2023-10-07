@@ -9,6 +9,8 @@
 
 class Queue {
 public:
+
+    // returns current number of elements in queue
     std::size_t Size();
 
     bool Empty();
