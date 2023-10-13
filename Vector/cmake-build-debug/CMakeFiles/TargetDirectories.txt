@@ -1,0 +1,3 @@
+/home/savelii/CLionProjects/data-structures/Vector/cmake-build-debug/CMakeFiles/Vector.dir
+/home/savelii/CLionProjects/data-structures/Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/savelii/CLionProjects/data-structures/Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
