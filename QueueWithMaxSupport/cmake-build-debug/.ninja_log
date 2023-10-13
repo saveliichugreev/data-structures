@@ -1,0 +1,5 @@
+# ninja log v5
+229	276	1697142721419560677	Queue_with_max_support	4706662ed831fe78
+1	229	1697142721375560309	CMakeFiles/Queue_with_max_support.dir/main.cpp.o	f1d7838f70c49699
+0	228	1697180860528707540	CMakeFiles/Queue_with_max_support.dir/main.cpp.o	7dfa419b295fe354
+228	273	1697180860572706889	Queue_with_max_support	4706662ed831fe78

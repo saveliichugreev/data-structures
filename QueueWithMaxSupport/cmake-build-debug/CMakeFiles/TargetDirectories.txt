@@ -1,0 +1,3 @@
+/home/savelii/CLionProjects/data-structures/QueueWithMaxSupport/cmake-build-debug/CMakeFiles/Queue_with_max_support.dir
+/home/savelii/CLionProjects/data-structures/QueueWithMaxSupport/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/savelii/CLionProjects/data-structures/QueueWithMaxSupport/cmake-build-debug/CMakeFiles/rebuild_cache.dir
